@@ -1,0 +1,4 @@
+# robots.txt for shield-wall scada controller
+
+User-agent: *
+Disallow: /scada/errors/
